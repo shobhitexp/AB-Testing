@@ -10,7 +10,7 @@ This project combines experimental design, multi-method statistics (Frequentist 
 
 Key Insight from Demo: Peak hours show a 35% lift in pickups (p < 0.001, 98% Bayesian probability) – validating surge pricing strategies!
 
-Featured on LinkedIn: [Link to your post]
+Featured on LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7375726115174359040/
 
 ✨ Features
 Power Analysis: Calculate sample sizes for Poisson-distributed metrics (e.g., ride counts).
@@ -33,7 +33,7 @@ Clone the repo:
 
 Bash
 
-git clone https://github.com/yourusername/uber-abtest.git
+git clone (https://github.com/shobhitexp)
 cd uber-abtest
 Create a virtual environment (recommended):
 
