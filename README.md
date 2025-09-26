@@ -108,8 +108,8 @@ Ideas: Add ARIMA for time-series, XGBoost uplift modeling, or FastAPI deployment
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 👋 Connect
-Author: Your Name
-LinkedIn: Share your thoughts on A/B testing in mobility! [Post Link]
-Twitter/GitHub: @yourhandle
+Author: Shobhit Raj
+LinkedIn: Share your thoughts on A/B testing in mobility! https://www.linkedin.com/posts/activity-7375726115174359040-nKIB?utm_source=share&utm_medium=member_desktop&rcm=ACoAADXyXeMB20NMJRW5QmZGdm9PWUme7bGVBaY
+Twitter/GitHub: https://github.com/shobhitexp
 Questions? Open an issue or DM me.
 Star ⭐ this repo if it helps your experiments! Let's build data-driven futures together. #ABTesting #DataScience #Python #UberData
